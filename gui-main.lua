@@ -33,7 +33,7 @@ local UICorner_9 = Instance.new("UICorner")
 --Properties:
 
 DTIPoseSyncGUI.Name = "DTIPoseSyncGUI"
-DTIPoseSyncGUI.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+DTIPoseSyncGUI.Parent = game.CoreGui
 DTIPoseSyncGUI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
